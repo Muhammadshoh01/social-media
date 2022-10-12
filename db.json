@@ -1,0 +1,64 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "./src/assets/images/burger.png",
+      "name": "Burger",
+      "cost": "$4.99"
+    },
+    {
+      "id": 2,
+      "img": "./src/assets/images/coke.png",
+      "name": "Coke",
+      "cost": "$1.49"
+    },
+    {
+      "id": 3,
+      "img": "./src/assets/images/cake.png",
+      "name": "Cake",
+      "cost": "$10.99"
+    },
+    {
+      "id": 4,
+      "img": "./src/assets/images/cookie.png",
+      "name": "Cookie",
+      "cost": "$3.99"
+    },
+    {
+      "id": 5,
+      "img": "./src/assets/images/icecream.png",
+      "name": "Icecream",
+      "cost": "$5.99"
+    },
+    {
+      "id": 6,
+      "img": "./src/assets/images/pizza.png",
+      "name": "Pizza",
+      "cost": "$7.99"
+    },
+    {
+      "id": 7,
+      "img": "./src/assets/images/popcorn.png",
+      "name": "Popcorn",
+      "cost": "$1.99"
+    },
+    {
+      "id": 8,
+      "img": "./src/assets/images/doughnut-14.png",
+      "name": "Donut",
+      "cost": "$1.49"
+    },
+    {
+      "id": 9,
+      "img": "./src/assets/images/flan.png",
+      "name": "Flan",
+      "cost": "$7.99"
+    },
+    {
+      "id": 10,
+      "img": "./src/assets/images/hotdog.png",
+      "name": "Hotdog",
+      "cost": "$3.49"
+    }
+  ]
+}
